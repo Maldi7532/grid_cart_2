@@ -109,3 +109,10 @@ footer p a {
 .sous-sous-flex:hover p{
     transform: scale(1.09);
 }
+@media(max-width:720px){
+    .sous-flex{
+        justify-content: center;
+        display: block
+        align-items: center
+    }
+}
