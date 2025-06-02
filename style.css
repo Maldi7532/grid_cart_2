@@ -112,7 +112,7 @@ footer p a {
 @media(max-width:720px){
     .sous-flex{
         justify-content: center;
-        display: block
-        align-items: center
+        display: block;
+        align-items: center;
     }
 }
